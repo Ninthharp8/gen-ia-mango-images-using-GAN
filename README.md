@@ -40,6 +40,6 @@ Durante el entrenamiento se generaron imágenes sintéticas progresivamente más
 <img src="./samples/09-gan-mango.jpg">
 </div>
 
-##  Nota
+##  Nota.
 
 Este proyecto fue realizado con fines educativos y de exploración de GANs.
